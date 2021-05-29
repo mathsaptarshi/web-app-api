@@ -16,5 +16,29 @@
       "Name": "TTs",
       "Type": "House",
       "Price": 120000
+    },
+    {
+      "Id": 4,
+      "Name": "Exa",
+      "Type": "Villa",
+      "Price": 120000
+    },
+    {
+      "Id": 5,
+      "Name": "TTs",
+      "Type": "House",
+      "Price": 120000
+    },
+    {
+      "Id": 6,
+      "Name": "Exa",
+      "Type": "Villa",
+      "Price": 120000
+    },
+    {
+      "Id": 7,
+      "Name": "TTs",
+      "Type": "House",
+      "Price": 120000
     }
   ]
