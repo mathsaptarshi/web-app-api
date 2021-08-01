@@ -17,3 +17,4 @@ C:\sb-dev\web-app-api\Backend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetA
 C:\sb-dev\web-app-api\Backend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
 C:\sb-dev\web-app-api\Backend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
 C:\sb-dev\web-app-api\Backend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\sb-dev\web-app-api\Backend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache

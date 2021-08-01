@@ -2,14 +2,27 @@
     transform: scale(1.1,1.1);
     transition-duration: 500ms;
     transition-timing-function: ease-out;
+    opacity: .7;
 }
 
 .card img{
     transform: scale(1,1);
     transition-duration: 500ms;
     transition-timing-function: ease-out;
+    height: 250px;
 }
 
-.img-wrapper{
+.card-img-wrapper{
     overflow: hidden;
+    position: relative;
+}
+
+.member-icons{
+    position: absolute;
+    bottom:-10%;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
 }
